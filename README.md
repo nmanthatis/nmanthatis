@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikos Manthatis
 - 👀 I’m interested in control systems.
-- 🌱 I’m currently learning gaussian process as part of bayesian optimization techniques. 
+- 🌱 I’m currently learning gaussian processes as part of bayesian optimization techniques. 
 - 📫 How to reach me [manthatis.com](manthatis.com)
 
 <!---
