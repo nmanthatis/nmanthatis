@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikos Manthatis
+- 👋 Hi, I’m Nikos Manthatis, a Mechanical Engineering graduate.
 - 👀 I’m interested in control systems, machine learning and their implementation in bioengineering systems.
 - 🌱 I’m currently learning gaussian processes as part of bayesian optimization techniques. 
 - 📫 How to reach me [manthatis.com](manthatis.com)
