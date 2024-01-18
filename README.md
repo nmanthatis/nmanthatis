@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikos Manthatis, a Mechanical Engineering graduate.
-- 👀 I’m interested in control systems, systems dynamics, machine learning and their implementation in bioengineering systems.
-- 🌱 I’m currently learning gaussian processes as part of bayesian optimization techniques. 
+- 👀 I’m interested in mechanics, control systems, systems dynamics, machine learning and their implementations.
+- 🌱 I’m currently doing my PhD in Engineering Mechanics at the University of Texas at Austin. 
 - 📫 How to reach me [manthatis.com](www.manthatis.com)
 
 <!---
